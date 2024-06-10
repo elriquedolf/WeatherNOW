@@ -175,6 +175,8 @@ Screenshots
 ![Screenshot (2403)](https://github.com/elriquedolf/WeatherNOW/assets/163988160/e51a6120-77a3-45c4-afaa-1ae86b6cf782)
 ![Screenshot (2404)](https://github.com/elriquedolf/WeatherNOW/assets/163988160/c27f61d5-438d-4912-891a-e4ddd625f3fd)
 ![Screenshot (2405)](https://github.com/elriquedolf/WeatherNOW/assets/163988160/24558160-9492-49c9-b7b9-b1644cb66a0d)
+![Screenshot (2408)](https://github.com/elriquedolf/WeatherNOW/assets/163988160/cc6f0a21-52c6-4860-a081-ffd8e4e1b3a1)
+
 
 // Reference list
 // IIE. 2024. Introduction to mobile app and web development. Module Manuel. The independent institution of education
