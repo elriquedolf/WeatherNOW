@@ -170,4 +170,6 @@ class DetailedActivity : AppCompatActivity() {
     }
 }
 
+// Reference list
+// IIE. 2024. Introduction to mobile app and web development. Module Manuel. The independent institution of education
 
