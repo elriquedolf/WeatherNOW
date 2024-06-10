@@ -19,8 +19,8 @@ class DetailedActivity : AppCompatActivity() {
         averageTextView = findViewById(R.id.averageTextView)
         backButton = findViewById(R.id.backButton)
 
-        val minMax = intent.getSerializableExtra("minMax") as ArrayList<Pair<Int, Int>>
-        val weatherconditionsInput = intent.getSerializableExtra("weatherconditionsInput") as ArrayList<String>
+        val minMax = intent.getIntArrayExtra("minMax") as ArrayList<Pair<Int, Int>>
+        val weatherconditionsInput = intent.getIntArrayExtra("weatherconditionsInput") as ArrayList<String>
 
         displayDetails(minMax, weatherconditionsInput)
         calculateAndDisplayAverage(minMax)
