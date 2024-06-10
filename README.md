@@ -170,6 +170,12 @@ class DetailedActivity : AppCompatActivity() {
     }
 }
 
+Screenshots 
+![Screenshot (2407)](https://github.com/elriquedolf/WeatherNOW/assets/163988160/a0085e11-f382-47d3-bdb6-bcb88bcc190c)
+![Screenshot (2403)](https://github.com/elriquedolf/WeatherNOW/assets/163988160/e51a6120-77a3-45c4-afaa-1ae86b6cf782)
+![Screenshot (2404)](https://github.com/elriquedolf/WeatherNOW/assets/163988160/c27f61d5-438d-4912-891a-e4ddd625f3fd)
+![Screenshot (2405)](https://github.com/elriquedolf/WeatherNOW/assets/163988160/24558160-9492-49c9-b7b9-b1644cb66a0d)
+
 // Reference list
 // IIE. 2024. Introduction to mobile app and web development. Module Manuel. The independent institution of education
 
